@@ -128,5 +128,3 @@ Contributions are welcome! To contribute:
 This repository is licensed under the **MIT License**. See the `LICENSE` file for details.
 
 --- 
-
-Let me know if you'd like further refinements or additions!
