@@ -67,7 +67,7 @@ Download the dataset from the repository or provide your own data. Place it in t
 
 ### 🚦 **How to Use**
 
-1. **Run Jupyter Notebooks**:
+1. **Run Colab/Jupyter Notebooks**:
    - Use Google Colab or Jupyter to execute the analysis scripts.
    - Follow the instructions in the notebooks for each step of the project.
 
