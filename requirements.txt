@@ -1,0 +1,16 @@
+# 📦 Core Libraries
+🐍 Python (>=3.8)
+
+# Data Analysis
+🐼 pandas==2.0.3            # Powerful data analysis library
+
+# Data Visualization
+📊 matplotlib==3.8.1        # Plotting and graphing library
+🎨 seaborn==0.12.2          # Statistical data visualization
+
+# Database Interaction
+📂 sqlite3                  # SQLite built-in database (No need to install separately)
+
+# Notebook Environment
+📒 jupyter==1.0.0(Optional) # Interactive coding in notebooks
+🌐 colab                    # For Google Colab support
